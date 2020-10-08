@@ -1,6 +1,6 @@
-package br.com.mateusborja;
+package com.myexamples.mateusborja;
 
-public class App888 {
+public class MainApp888 {
     public static void main(String[] args) {
 
         int i,j;

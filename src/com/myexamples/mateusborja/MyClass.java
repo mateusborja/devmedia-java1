@@ -1,4 +1,4 @@
-package br.com.mateusborja;
+package com.myexamples.mateusborja;
 
 /*
 App sum two values

@@ -1,4 +1,4 @@
-package br.com.mateusborja;
+package com.myexamples.mateusborja;
 
 import javax.swing.*;
 

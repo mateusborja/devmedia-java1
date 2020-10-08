@@ -1,4 +1,4 @@
-package br.com.javadevmedia.mateusborja;
+package com.javadevmedia.introducao;
 
 public class HelloWorld {
 
