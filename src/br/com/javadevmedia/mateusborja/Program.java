@@ -9,8 +9,14 @@ public class Program {
 
     //TODO
     public static void main(String[] args) {
+
+        HelloWorld sayHi;
+        sayHi = new HelloWorld();
+
         HelloWorld helloWorld = new HelloWorld();
         helloWorld.sayHello();
+
+        sayHi.sayHello();
 
     }
 
