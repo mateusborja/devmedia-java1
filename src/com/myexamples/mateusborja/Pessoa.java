@@ -5,6 +5,9 @@ public class Pessoa {
     String nome;
     int figuras;
 
+    String name;
+
+
     void recebe(int figuras) {
         this.figuras = figuras;
     }
@@ -14,7 +17,10 @@ public class Pessoa {
         p.figuras += figuras;
         //p.recebe(figuras);
 
+    }
 
+    public String retornarNome() {
+        return nome;
     }
 
 
