@@ -12,7 +12,5 @@ public class MainMyArr {
         System.out.println("\n" + p1.returnName(p1.name) + "\n");
         myarr.getSum();
 
-
-
     }
 }

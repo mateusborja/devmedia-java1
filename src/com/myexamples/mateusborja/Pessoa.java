@@ -5,8 +5,7 @@ public class Pessoa {
     String nome;
     int figuras;
 
-    String name;
-
+    String callname;
 
     void recebe(int figuras) {
         this.figuras = figuras;
@@ -19,8 +18,8 @@ public class Pessoa {
 
     }
 
-    public String retornarNome() {
-        return nome;
+    public String retornarNome(String callname) {
+        return this.callname;
     }
 
 
