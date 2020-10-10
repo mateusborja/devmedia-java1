@@ -2,6 +2,7 @@ package com.myexamples.mateusborja;
 
 import java.io.*;
 import javax.swing.JOptionPane;
+import javax.swing.tree.DefaultTreeCellEditor;
 
 public class AppMatriz {
 
@@ -68,5 +69,13 @@ public class AppMatriz {
 
         return a;
     }
+
+    public void determine() {
+        for (int i = 0; i <100; i++){
+            System.out.println();
+        }
+
+    }
+
 
 }

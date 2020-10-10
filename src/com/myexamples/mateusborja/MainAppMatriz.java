@@ -44,5 +44,7 @@ public class MainAppMatriz {
         mat3 = primeira.multiplica(mat1, mat2, x);
         System.out.println("MULTIPLICACAO: ");
         primeira.mostra(mat3, x);
+
+
     }
 }
