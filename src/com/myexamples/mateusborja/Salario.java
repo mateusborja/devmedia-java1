@@ -16,14 +16,15 @@ public class Salario {
 
         String name = JOptionPane.showInputDialog("Qual seu nome?");
 
-        while (ct <=12) {
+        while (ct <= 12) {
             String salario = JOptionPane.showInputDialog("Digite seu " + ct + " salário?");
             double valor = Double.parseDouble(salario);
-
-
-
+            total += valor;
+            ct++;
         }
 
+        media = total / 12;
+        JOptionPane.showMessageDialog(null, name + " seu 13 salário é = " + df.format(media));
     }
 
 
