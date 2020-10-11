@@ -12,7 +12,7 @@ public class Salario {
     public void resultado() {
         int ct = 1;
         int total = 0;
-        double media = 0;
+        double media;
 
         String name = JOptionPane.showInputDialog("Qual seu nome?");
 
