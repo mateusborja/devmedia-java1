@@ -24,7 +24,7 @@ public class Salario {
         }
 
         media = total / 12;
-        JOptionPane.showMessageDialog(null, name + " seu 13 salário é = " + df.format(media));
+        JOptionPane.showMessageDialog(null, name + " seu 13 salário é = R$ " + df.format(media));
     }
 
 
