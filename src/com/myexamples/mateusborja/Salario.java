@@ -1,3 +1,4 @@
+//salary app with method
 package com.myexamples.mateusborja;
 
 import javax.swing.*;
@@ -9,6 +10,15 @@ public class Salario {
 
 
     public void resultado() {
+        int ct = 1;
+        int total = 0;
+        double media = 0;
+
+        String name = JOptionPane.showInputDialog("Qual seu nome?");
+
+        while (ct <=12) {
+
+        }
 
     }
 
