@@ -17,6 +17,10 @@ public class Salario {
         String name = JOptionPane.showInputDialog("Qual seu nome?");
 
         while (ct <=12) {
+            String salario = JOptionPane.showInputDialog("Digite seu " + ct + " salário?");
+            double valor = Double.parseDouble(salario);
+
+
 
         }
 
