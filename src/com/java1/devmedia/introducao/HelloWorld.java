@@ -1,4 +1,4 @@
-package com.javadevmedia.introducao;
+package com.java1.devmedia.introducao;
 
 public class HelloWorld {
 
