@@ -1,4 +1,4 @@
-package com.myexamples.mateusborja;
+package com.mateusborja.myexamples.arr;
 
 public class MainMyArr {
     public static void main(String[] args) {

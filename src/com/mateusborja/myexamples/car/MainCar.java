@@ -1,4 +1,4 @@
-package com.myexamples.mateusborja;
+package com.mateusborja.myexamples.car;
 
 public class MainCar {
     public static void main(String[] args) {

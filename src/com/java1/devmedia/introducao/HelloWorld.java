@@ -2,13 +2,13 @@ package com.java1.devmedia.introducao;
 
 public class HelloWorld {
 
-    //method
+    /* method
+
+    */
     //TODO
+
     public void sayHello() {
         System.out.println("\nOlá mundo!!!");
-
-
-
 
     }
 

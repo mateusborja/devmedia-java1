@@ -1,5 +1,5 @@
 //method Main class Pessoas
-package com.myexamples.mateusborja;
+package com.mateusborja.myexamples.pessoas;
 
 public class MainPessoas {
 

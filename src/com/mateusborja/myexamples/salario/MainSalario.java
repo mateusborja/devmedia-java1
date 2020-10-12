@@ -5,9 +5,7 @@
  */
 
 
-package com.myexamples.mateusborja;
-
-import java.text.DecimalFormat;
+package com.mateusborja.myexamples.salario;
 
 public class MainSalario {
     public static void main(String[] args) {
