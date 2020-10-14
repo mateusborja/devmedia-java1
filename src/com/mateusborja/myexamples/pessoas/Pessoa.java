@@ -3,11 +3,11 @@ package com.mateusborja.myexamples.pessoas;
 public class Pessoa {
 
     String nome;
+    String callname;
     int figuras;
 
-    String callname;
-
     void recebe(int figuras) {
+
         this.figuras = figuras;
     }
 
@@ -19,8 +19,11 @@ public class Pessoa {
     }
 
     public String retornarNome(String callname) {
-
         return this.callname;
+    }
+
+    public String qualNome(String nome) {
+        return this.nome;
     }
 
 

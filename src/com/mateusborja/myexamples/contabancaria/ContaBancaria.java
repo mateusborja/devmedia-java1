@@ -57,8 +57,4 @@ public class ContaBancaria {
                 "\nNumero da Conta:\n" + "=> " + getNumConta() + "\nSeu saldo é:\n" + "=> " + getSaldo();
     }
 
-    //regra para esse metodo
-    //public void setSaldo(double saldo) {
-    //    this.saldo = saldo;
-    //}
 }
