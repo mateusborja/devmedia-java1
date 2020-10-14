@@ -1,8 +1,7 @@
-package com.mateusborja.myexamples.appmatriz;
+package com.mateusborja.samples.appmatriz;
 
 import java.io.*;
 import javax.swing.JOptionPane;
-import javax.swing.tree.DefaultTreeCellEditor;
 
 public class AppMatriz {
 

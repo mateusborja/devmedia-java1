@@ -1,6 +1,4 @@
-package com.mateusborja.myexamples.car;
-
-import javax.swing.*;
+package com.mateusborja.samples.car;
 
 public class Car {
 

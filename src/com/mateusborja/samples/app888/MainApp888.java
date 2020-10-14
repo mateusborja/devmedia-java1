@@ -1,4 +1,4 @@
-package com.mateusborja.myexamples.app888;
+package com.mateusborja.samples.app888;
 
 public class MainApp888 {
     public static void main(String[] args) {

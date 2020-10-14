@@ -1,4 +1,4 @@
-package com.mateusborja.myexamples.appmatriz;
+package com.mateusborja.samples.appmatriz;
 
 import javax.swing.*;
 

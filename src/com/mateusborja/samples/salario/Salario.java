@@ -1,5 +1,5 @@
 //salary app with method
-package com.mateusborja.myexamples.salario;
+package com.mateusborja.samples.salario;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

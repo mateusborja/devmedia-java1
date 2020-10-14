@@ -1,4 +1,4 @@
-package com.mateusborja.myexamples.arr;
+package com.mateusborja.samples.arr;
 
 public class MyArr {
 

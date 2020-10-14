@@ -5,7 +5,7 @@
  */
 
 
-package com.mateusborja.myexamples.salario;
+package com.mateusborja.samples.salario;
 
 public class MainSalario {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.mateusborja.myexamples.sum;
+package com.mateusborja.samples.sum;
 
 public class MainMyClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.mateusborja.myexamples.sum;
+package com.mateusborja.samples.sum;
 
 /*
 App sum two values
