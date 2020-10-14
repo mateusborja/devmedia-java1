@@ -44,16 +44,17 @@ public class ContaBancaria {
         return saldo;
     }
 
-    public void setNomeCliente(String nomeCliente) {
-        this.nomeCliente = nomeCliente;
-    }
-
     public String getNomeCliente() {
         return nomeCliente;
     }
 
+    public void setNomeCliente(String nomeCliente) {
+        this.nomeCliente = nomeCliente;
+    }
+
     public String toString() {
-        return "Informações bancárias do Cliente:\n"+ "=>" +nomeCliente + "\nNumero da Conta:\n"+"=>" +getNumConta()+"\nSeu saldo é:\n"+"=>" +getSaldo();
+        return "Informações bancárias do Cliente:\n" + "Nome do Cliente:\n" + "=> " + nomeCliente +
+                "\nNumero da Conta:\n" + "=> " + getNumConta() + "\nSeu saldo é:\n" + "=> " + getSaldo();
     }
 
     //regra para esse metodo
