@@ -1,3 +1,4 @@
+//java access modifiers and methods set and get
 package com.mateusborja.myexamples.contabancaria;
 
 public class ContaBancaria {
@@ -52,9 +53,8 @@ public class ContaBancaria {
     }
 
     public String toString() {
-        return "O nome do cliente é : => " + nomeCliente + " E seu saldo é: => " + getSaldo();
+        return "Informações bancárias do Cliente:\n"+ "=>" +nomeCliente + "\nNumero da Conta:\n"+"=>" +getNumConta()+"\nSeu saldo é:\n"+"=>" +getSaldo();
     }
-
 
     //regra para esse metodo
     //public void setSaldo(double saldo) {
