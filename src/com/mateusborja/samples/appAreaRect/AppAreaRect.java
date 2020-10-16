@@ -3,7 +3,7 @@ package com.mateusborja.samples.appAreaRect;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class AppArea {
+public class AppAreaRect {
 
     public static void main(String[] args) {
 
