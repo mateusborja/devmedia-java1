@@ -1,11 +1,15 @@
 package com.mateusborja.samples.appAreaRect;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class AppArea {
 
     public static void main(String[] args) {
 
+        //class Decimal format
+        DecimalFormat dc = new DecimalFormat();
+        //class Scanner
         Scanner sc = new Scanner(System.in);
         double width, height, area;
 
@@ -16,6 +20,6 @@ public class AppArea {
         height = sc.nextDouble();
 
         area = width * height;
-        System.out.println("area is: => " + area + " metters");
+        System.out.println("area is: => " + dc.format(area) + " metters");
     }
 }
