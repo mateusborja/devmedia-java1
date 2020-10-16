@@ -3,8 +3,8 @@ package com.mateusborja.samples.appAreaRect;
 
 public class Retangulo {
 
-    private static double largura;
-    private static double altura;
+    private  double largura;
+    private  double altura;
 
 
     public Retangulo() {
@@ -13,19 +13,17 @@ public class Retangulo {
     }
 
     public Retangulo(double largura, double altura) {
-        Retangulo.altura = altura;
-        Retangulo.largura = largura;
-
-
+        this.altura = altura;
+        this.largura = largura;
     }
 
-    public static double calcularArea() {
+    public double calcularArea() {
         return largura * altura;
     }
 
-    public static void setValores(double largura, double altura) {
-        Retangulo.largura = largura;
-        Retangulo.altura = altura;
+    public void setValor(double largura, double altura) {
+        this.largura = largura;
+        this.altura = altura;
     }
 
 
