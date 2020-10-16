@@ -3,8 +3,8 @@ package com.mateusborja.samples.appAreaRect;
 
 public class Retangulo {
 
-    private  double largura;
-    private  double altura;
+    private double largura;
+    private double altura;
 
 
     public Retangulo() {
