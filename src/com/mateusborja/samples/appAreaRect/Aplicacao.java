@@ -1,4 +1,4 @@
-//java constructor
+//java constructor and java modifiers
 package com.mateusborja.samples.appAreaRect;
 
 
@@ -9,13 +9,12 @@ public class Aplicacao {
         Retangulo r1 = new Retangulo();
         double area1 = r1.calcularArea();
 
-        //Retangulo.setValor(35,15);
-        //double area2 = Retangulo.calcularArea();
-        //System.out.println(area2);
+        Quadrado.setLado(25);
+
+        double areaq1 = Quadrado.calcularArea();
 
         System.out.println(area1);
-
-
+        System.out.println(areaq1);
 
 
     }

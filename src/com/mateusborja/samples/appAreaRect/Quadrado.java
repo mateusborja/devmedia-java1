@@ -4,7 +4,7 @@ package com.mateusborja.samples.appAreaRect;
 
 public class Quadrado {
 
-    private double lado;
+    private static double lado;
 
 
     public Quadrado () {
@@ -12,17 +12,15 @@ public class Quadrado {
     }
 
     public Quadrado (double lado) {
-        this.lado = lado;
+        Quadrado.lado = lado;
     }
 
-    public double calcularArea() {
+    public static double calcularArea() {
         return lado * lado;
     }
 
-    public  void setLado(double lado) {
-        this.lado = lado;
 
+    public static void setLado(double lado) {
+        Quadrado.lado = lado;
     }
-
-
 }
