@@ -3,9 +3,9 @@ package com.mateusborja.samples.car;
 
 public class Car {
 
-    private static String color;
-    private static String client;
-    private static int age;
+     static String color;
+     static String client;
+     static int age;
 
     static {
         color = "blue";
@@ -13,16 +13,15 @@ public class Car {
         age = 1996;
     }
 
-
-    public Car(String color, String client) {
+    public Car(String color, String c) {
         this.color = color;
         this.client = client;
 
     }
 
-    public void myCar() {
-        System.out.println("Meu carro é azul...");
 
+    public static void setColor(String color) {
+        Car.color = color;
 
     }
 
