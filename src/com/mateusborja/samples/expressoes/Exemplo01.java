@@ -32,6 +32,19 @@ public class Exemplo01 {
 
         operation = ((x * y) - z) * 15;
         System.out.println(operation);
+
+        x = 10;
+        y = 5;
+        z = 10;
+        operation = ((x * y) - z) + 150;
+        System.out.println(operation);
+
+        x = 20;
+        y = 3;
+        z = 5;
+        operation = (x % y) * z;
+        System.out.println(operation);
+
     }
 
 

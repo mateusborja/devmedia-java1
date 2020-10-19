@@ -21,6 +21,11 @@ public class Exemplo02 {
         operacao = x % y;
         System.out.println(operacao);
 
+        x = 20;
+        y = 3;
+        operacao = x % y;
+        System.out.println(operacao);
+
 
     }
 }
