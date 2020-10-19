@@ -1,5 +1,5 @@
 //java access modifiers and methods set and get
-package com.mateusborja.samples.contaBancaria;
+package com.mateusborja.samples.contabancaria;
 
 
 public class AppContaBancaria {

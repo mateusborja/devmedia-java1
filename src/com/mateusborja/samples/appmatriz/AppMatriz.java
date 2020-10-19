@@ -1,4 +1,4 @@
-package com.mateusborja.samples.appMatriz;
+package com.mateusborja.samples.appmatriz;
 
 import java.io.*;
 import javax.swing.JOptionPane;

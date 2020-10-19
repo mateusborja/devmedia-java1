@@ -1,5 +1,5 @@
 //java constructor and java modifiers
-package com.mateusborja.samples.appAreaRect;
+package com.mateusborja.samples.apparearect;
 
 public class Aplicacao {
 

@@ -1,4 +1,4 @@
-package com.mateusborja.samples.AppMedia;
+package com.mateusborja.samples.appmedia;
 
 import java.util.Scanner;
 

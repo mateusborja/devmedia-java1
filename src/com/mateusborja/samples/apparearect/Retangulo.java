@@ -1,5 +1,5 @@
 //java constructor
-package com.mateusborja.samples.appAreaRect;
+package com.mateusborja.samples.apparearect;
 
 public class Retangulo {
 

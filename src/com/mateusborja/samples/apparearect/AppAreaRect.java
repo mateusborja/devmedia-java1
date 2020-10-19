@@ -1,4 +1,4 @@
-package com.mateusborja.samples.appAreaRect;
+package com.mateusborja.samples.apparearect;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
