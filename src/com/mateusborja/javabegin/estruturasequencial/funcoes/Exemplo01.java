@@ -20,6 +20,7 @@ public class Exemplo01 {
         B = Math.pow(x, x);
         System.out.println(x + " elevado a " + x + " é igual a: " + B);
 
+        //valor absoluto
         C = Math.abs(z);
         System.out.println("O Valor absoluto de " + z +  " é igual a: " + C);
 
