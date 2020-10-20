@@ -1,4 +1,4 @@
-package com.mateusborja.samples.saidadedados;
+package com.mateusborja.javabegin.estruturasequencial.saidadedados;
 
 import java.util.Locale;
 

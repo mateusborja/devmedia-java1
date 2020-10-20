@@ -1,4 +1,4 @@
-package com.mateusborja.samples.tiposbasicos;
+package com.mateusborja.javabegin.estruturasequencial.tiposbasicos;
 
 public class Exemplo01 {
 

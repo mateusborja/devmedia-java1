@@ -1,4 +1,4 @@
-package com.mateusborja.samples.expressoes;
+package com.mateusborja.javabegin.estruturasequencial.expressoes;
 
 public class Exemplo02 {
 

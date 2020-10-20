@@ -6,7 +6,7 @@ Regra de precedencia
 Igual na regra operacao esq. para direita
  */
 
-package com.mateusborja.samples.expressoes;
+package com.mateusborja.javabegin.estruturasequencial.expressoes;
 
 public class Exemplo01 {
 
